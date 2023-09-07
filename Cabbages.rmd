@@ -46,7 +46,7 @@ ggplot(veggy, aes(x = Cult, y = VitC)) +
 
 
 ```
-
+Aside from the outlier in the data in c39 as highlighted in red, the range of the data for c52's vitamin c content is significantly higher than the range for the data of c39's vitamin c content. There is also a wider range of data available for c52 than for c39.
 
 
 ### Numerical Descriptive Results
