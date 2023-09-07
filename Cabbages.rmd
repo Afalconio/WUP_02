@@ -55,7 +55,7 @@ ggplot(veggy, aes(x = Cult, y = VitC)) +
 ```{r}
 favstats(VitC~Cult, data = veggy)
 ```
-From looking at the data, it can be inferred that Q3 of C39 has a smaller value than Q1 of C52 which indicates that they are disjointed.
+From looking at the data, it can be inferred that the mean, median, and max values of C39 are smaller than the values of mean, median, and max for C52 which indicates a significant gap in the two factors.
 
 ## Inferential Results
 
