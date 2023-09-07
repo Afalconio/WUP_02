@@ -68,3 +68,4 @@ p-value: 0.00000003405. This shows that the data of C39 and C52 differentiate fr
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+The data from the boxplot and the t-test show that the C39 method of cultivation results lower levels of vitamin C within the cabbage represented by veggy, and C52's method of cultivation results in higher levels of vitamin C within the cabbage with a significant difference in the levels of vitamin C between the cabbage cultivated using the two different methods.
